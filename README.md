@@ -1,0 +1,1 @@
+Print min value in a array by method.
